@@ -1,4 +1,4 @@
-## Smart home automation using Amazon Alexa
+## Home automation using Amazon Alexa
 
 This code controls four switches (via relays) using 2.4Ghz Wifi signal.
 
